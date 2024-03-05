@@ -1,3 +1,6 @@
-# React + TypeScript + Vite Starter kit
+# EIP6963 Playground boostrated with: React + TypeScript + Vite Starter kit + Radix-ui
 
-This is a very simple React + TypeScript + Vite starterkit with tailwindcss and radix-ui setup
+
+### useful resources by Adekunle Michael : https://ajayimike.medium.com/unleash-the-power-of-injected-wallet-choice-a-comprehensive-guide-to-eip-6963-for-dapp-developers-25694010c685
+
+

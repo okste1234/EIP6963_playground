@@ -4,6 +4,7 @@ import {EIP6963EventNames, LOCAL_STORAGE_KEYS, SupportedChainId, isPreviouslyCon
 import {CodeSandboxLogoIcon, DrawingPinIcon, RocketIcon} from "@radix-ui/react-icons";
 import WalletButton from "./components/WalletButtons";
 
+
 function App() {
     /**
      * @title injectedProviders
